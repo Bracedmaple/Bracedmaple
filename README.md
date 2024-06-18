@@ -1,7 +1,7 @@
 <header><h1>Hi, you can call me Bracedmaple</h1></header>
 <body>
 
-<p  style="font-size:160%;">
+<p>
 I am currently studying programming with hopes of getting a tech job in the future.<br>
 I am currently learning:<br>
 Python<br>
