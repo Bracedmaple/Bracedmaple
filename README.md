@@ -4,11 +4,11 @@
 <p>
 I am currently studying programming with hopes of getting a tech job in the future.<br>
 I am currently learning:<br>
-Python<br>
+<b>Python<br>
 MySql<br>
 HTML<br>
 CSS<br>
-
+</b>
   
 </p>
 </body>
