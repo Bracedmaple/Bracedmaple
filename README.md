@@ -4,10 +4,10 @@
 <p>
 I am currently studying programming with hopes of getting a tech job in the future.
 I am currently learning:
-Python
-MySql
-HTML
-CSS
+Python<br>
+MySql<br>
+HTML<br>
+CSS<br>
 
   
 </p>
