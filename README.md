@@ -13,4 +13,4 @@ CSS<br>
 </p>
 </body>
 
-<footer>I don't have much to say for now. I will add more to this profile in time.</footer>
+
